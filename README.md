@@ -4,26 +4,26 @@ This repository contains .tex and .pdf along with relevant files for Handouts us
 
 ### XCS229i: Machine Learning Handouts
 - Supervised Learning
-  - [Supervised Learning and Discriminative Algorithms](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Supervised%20Learning%20and%20Discriminative%20Algorithms.pdf) (Further reading: Binary Classification and Logistic Regression, Perceptron)
-  - Generative Learning Algorithms
-  - Kernels and Support Vector Machines (Further Reading: Representer Functions)
-  - Decision Trees (Further Reading: Boosting, Ensemble Methods)
+  - [Supervised Learning and Discriminative Algorithms](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Supervised%20Learning%20and%20Discriminative%20Algorithms.pdf) (Further reading: [Binary Classification and Logistic Regression](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Binary%20Classification%20and%20Logistic%20Regression.pdf)), [Perceptron](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Perceptron.pdf))
+  - [Generative Learning Algorithms](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Generative%20Learning%20Algorithms.pdf)
+  - [Kernels and Support Vector Machines](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Kernels%20and%20Support%20Vector%20Machines.pdf) (Further Reading: [Representer Functions](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Representer%20Functions.pdf))
+  - [Decision Trees](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Decision%20Trees.pdf) (Further Reading: [Boosting](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Boosting.pdf), [Ensemble Methods](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Ensemble%20Methods.pdf))
 - Unsupervised Learning
-  - K-Means Clustering
-  - Mixture of Gaussians
-  - Expectation Maximization Algorithm
-  - Factor Analysis
-  - Independent Component Analysis
+  - [K-Means Clustering](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/K-Means%20Clustering.pdf)
+  - [Mixture of Gaussians](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Mixture%20of%20Gaussians.pdf)
+  - [Expectation Maximization Algorithm](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Expectation%20Maximization%20Algorithm.pdf)
+  - [Factor Analysis](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Factor%20Analysis.pdf)
+  - [Independent Component Analysis](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Independent%20Component%20Analysis.pdf)
 - Deep Learning
-  - Deep Learning (Further Reading: Backpropagation)
+  - [Deep Learning](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Deep%20Learning.pdf) (Further Reading: [Backpropagation](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Backpropagation.pdf))
 
 ### XCS229ii: Machine Learning Strategy and Intro to Reinforcement Learning
 - Learning Strategy
-  - Learning Theory (Further Reading: Bias-Variance, Error Analysis)
-  - Regularization and Model Selection
+  - [Learning Theory](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Learning%20Theory.pdf) (Further Reading: [Bias-Variance](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Bias-Variance.pdf), [Error Analysis](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Error%20Analysis.pdf))
+  - [Regularization and Model Selection](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Regularization%20and%20Model%20Selection.pdf)
 - Reinforcement Learning
-  - Reinforcement Learning and Control
-  - LQR, DDP, and LQG
+  - [Reinforcement Learning and Control](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Reinforcement%20Learning%20and%20Control.pdf)
+  - [LQR, DDP, and LQG](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/LQR,%20DDP,%20and%20LQG.pdf)
 
 # Compiling Latex
 
