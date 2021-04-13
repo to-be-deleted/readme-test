@@ -4,7 +4,7 @@ This repository contains .tex and .pdf along with relevant files for Handouts us
 
 ### XCS229i: Machine Learning Handouts
 - Supervised Learning
-  - [Supervised Learning and Discriminative Algorithms](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Supervised Learning and Discriminative Algorithms.pdf) (Further reading: Binary Classification and Logistic Regression, Perceptron)
+  - [Supervised Learning and Discriminative Algorithms](http://docs.google.com/gview?url=https://github.com/scpd-proed/XCS229-Handouts/raw/main/Supervised%20Learning%20and%20Discriminative%20Algorithms.pdf) (Further reading: Binary Classification and Logistic Regression, Perceptron)
   - Generative Learning Algorithms
   - Kernels and Support Vector Machines (Further Reading: Representer Functions)
   - Decision Trees (Further Reading: Boosting, Ensemble Methods)
