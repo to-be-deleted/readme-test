@@ -1,7 +1,7 @@
 # XCS229-Handouts
 
 
-<table border="0">
+<table cellspacing="0" cellpadding="0" border="0" style="border: none;">
 <tr>
 <td>
 <h3>Thanks to</h3>
