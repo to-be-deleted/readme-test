@@ -2,7 +2,7 @@
 
 
 <table cellspacing="0" cellpadding="0" border="0" style="border: none;">
-<tr> style="border: none;"
+<tr style="border: none;">
 <td style="border: none;">
 <h3>Thanks to</h3>
 JetBrains for the IntelliJ IDEA licenses.
