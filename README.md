@@ -15,7 +15,8 @@ JetBrains for the IntelliJ IDEA licenses.
 
 
 <span>
-  <h3>Thanks to</h3>
+  <b>Thanks to</b>
+  <br>
   JetBrains for the IntelliJ IDEA licenses.
 </span>
 <a href="https://www.jetbrains.com/"><img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" width="100"></a>
