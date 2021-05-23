@@ -1,5 +1,20 @@
 # XCS229-Handouts
 
+
+<table border="0">
+<tr>
+<td>
+<h3>Thanks to</h3>
+JetBrains for the IntelliJ IDEA licenses.
+</td>
+<td>
+<a href="https://www.jetbrains.com/"><img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" width="100"></a>
+</td>
+</tr>
+</table>
+
+
+
 This repository contains .tex and .pdf along with relevant files for Handouts used in both XCS229i: Machine Learning and XCS229ii: Machine Learning Strategy and Intro to Reinforcement Learning. Below is a snapshot of where each handout belongs within the scope of these two classes:
 
 ### XCS229i: Machine Learning Handouts
