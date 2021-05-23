@@ -2,12 +2,12 @@
 
 
 <table cellspacing="0" cellpadding="0" border="0" style="border: none;">
-<tr>
-<td>
+<tr> style="border: none;"
+<td style="border: none;">
 <h3>Thanks to</h3>
 JetBrains for the IntelliJ IDEA licenses.
 </td>
-<td>
+<td style="border: none;">
 <a href="https://www.jetbrains.com/"><img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" width="100"></a>
 </td>
 </tr>
